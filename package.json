@@ -83,14 +83,6 @@
       "email": "linus@folkdatorn.se"
     }
   ],
-  "dist": {
-    "shasum": "53641605f9999c106c94774943f8da132acbbe86",
-    "tarball": "http://registry.npmjs.org/canvas/-/canvas-1.3.10.tgz"
-  },
-  "_npmOperationalInternal": {
-    "host": "packages-9-west.internal.npmjs.com",
-    "tmp": "tmp/canvas-1.3.10.tgz_1454839071682_0.8974597570486367"
-  },
   "directories": {},
   "_resolved": "https://registry.npmjs.org/canvas/-/canvas-1.3.10.tgz",
   "readme": "ERROR: No README data found!"
